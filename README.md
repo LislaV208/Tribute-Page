@@ -1,2 +1,2 @@
 # hello-world
-First repository.
+Hi, I'm LislaV and I'm getting started with GitHub!
