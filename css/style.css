@@ -1,0 +1,68 @@
+body {
+  background-color: #111111;
+  color: white;
+  font-family: Times;
+  font-size: 16px;
+}
+
+@font-face {
+  font-family: 'Nirvana';
+  src: url('https://raw.githubusercontent.com/LislaV208/Tribute-Page/master/ufonts.com_onyx.ttf');
+}
+
+h1 {
+  font-family: Nirvana;
+  font-size: 80px;
+  color: yellow;
+  margin-bottom: -20px;
+}
+
+.sublogo-text {
+  font-size: 18px;
+}
+
+.content {
+  background-color: #0B0B0B;
+  padding: 40px 50px 40px 50px;
+  width: 100%;
+  margin: 20px 0px 20px 0px;
+}
+
+.rotated-text {
+  -ms-transform: rotate(7deg);
+  -webkit-transform: rotate(7deg);
+  transform: rotate(-10deg);
+  display: inline-block;
+  margin-left: 200px;
+}
+
+small {
+  font-size: 20px;
+}
+
+.rounded-photo {
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.photo{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin: 0px 0px 20px 0px;
+}
+
+a {
+  color: yellow;
+}
+a:visited {
+  color: yellow;
+}
+
+h2 {
+  margin-top: -10px;
+  margin-bottom: 20px;
+}
