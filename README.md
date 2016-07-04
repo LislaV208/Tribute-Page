@@ -1,2 +1,2 @@
-# hello-world
-Hi, I'm LislaV and I'm getting started with GitHub!
+# Tribute-Page
+This is a Tribute Page Project for freeCodeCamp.
